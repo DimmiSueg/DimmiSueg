@@ -26,6 +26,9 @@ Landing page com **"AI Pool Doctor"**: o visitante envia uma foto da piscina, a 
 **[AppSindical](https://github.com/DimmiSueg/case-appsindical)**: plataforma SaaS para sindicatos, feita para o Sindibank
 Web, app Android/iOS e API, com carteirinha digital, assembleias, enquetes, cobrança de mensalidades e um **Assistente Jurídico com IA** (Claude) que responde dúvidas trabalhistas dos associados 24h.
 
+**[App Frete Barato](https://github.com/DimmiSueg/case-appfretebarato)**: Correios com preço de empresa, sem ter contrato · **em produção na [Google Play](https://play.google.com/store/apps/details?id=br.com.appfretebarato)**
+Para a Miranda Multimarcas: o app repassa o preço do contrato corporativo dos Correios para qualquer pessoa, com **economia de 22% a 43%** nas rotas comparadas. Cotação, PIX, carteira, etiqueta com declaração de conteúdo e rastreio, com app em Flutter e API em **Rust**.
+
 ---
 
 #### 🛠️ Stack do dia a dia
