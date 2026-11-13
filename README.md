@@ -23,7 +23,7 @@ Construo apps, sistemas e SaaS sob medida para empresas no Brasil e nos EUA, 100
 **[California Blue Pool](https://github.com/DimmiSueg/case-california-blue-pool)**: empresa de manutenção de piscinas em Orange County, Califórnia (EUA)
 Landing page com **"AI Pool Doctor"**: o visitante envia uma foto da piscina, a IA (Gemini Vision) faz o diagnóstico e o lead chega em segundos no Telegram do dono, com a foto, já dentro de um CRM em kanban.
 
-**[AppSindical](https://github.com/DimmiSueg/case-appsindical)**: plataforma SaaS para sindicatos, feita para o Sindibank
+**[AppSindical](https://github.com/DimmiSueg/case-appsindical)**: plataforma SaaS para sindicatos, feita para o Sindibank · **em produção na [Google Play](https://play.google.com/store/apps/details?id=br.com.sincoplan)** (app do Sincoplan)
 Web, app Android/iOS e API, com carteirinha digital, assembleias, enquetes, cobrança de mensalidades e um **Assistente Jurídico com IA** (Claude) que responde dúvidas trabalhistas dos associados 24h.
 
 **[App Frete Barato](https://github.com/DimmiSueg/case-appfretebarato)**: Correios com preço de empresa, sem ter contrato · **em produção na [Google Play](https://play.google.com/store/apps/details?id=br.com.appfretebarato)**
