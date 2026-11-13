@@ -47,7 +47,7 @@ Tem um processo que ainda depende de planilha, WhatsApp manual ou retrabalho? Me
 
 [![Site](https://img.shields.io/badge/atossofts.com.br-0b1220?style=for-the-badge&logo=googlechrome&logoColor=16a7d4)](https://atossofts.com.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-(87)_99603--2135-0b1220?style=for-the-badge&logo=whatsapp&logoColor=25d366)](https://wa.me/5587996032135?text=Ol%C3%A1%20Dimmi%2C%20vi%20seu%20GitHub%20e%20quero%20conversar%20sobre%20um%20projeto.)
+[![E-mail](https://img.shields.io/badge/contato@atossofts.com.br-0b1220?style=for-the-badge&logo=maildotru&logoColor=c2992c)](mailto:contato@atossofts.com.br?subject=Projeto%20-%20vi%20seu%20GitHub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=16a7d4)](https://www.linkedin.com/in/dimmisueg/)
-<!-- {{adicionar: e-mail comercial}} -->
 
 <sub>🇺🇸 Full-stack developer & founder of AtosSofts. I build custom apps, SaaS and AI-powered workflows for businesses in Brazil and the US.</sub>
